@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Gomoku-Demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2978440-2224-4838-8F5E-0CD2158A010E}|Gomoku-Demo\\Gomoku-Demo.csproj|c:\\users\\user\\source\\repos\\gomoku-demo\\gomoku-demo\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2978440-2224-4838-8F5E-0CD2158A010E}|Gomoku-Demo\\Gomoku-Demo.csproj|solutionrelative:gomoku-demo\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2978440-2224-4838-8F5E-0CD2158A010E}|Gomoku-Demo\\Gomoku-Demo.csproj|c:\\users\\user\\source\\repos\\gomoku-demo\\gomoku-demo\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2978440-2224-4838-8F5E-0CD2158A010E}|Gomoku-Demo\\Gomoku-Demo.csproj|solutionrelative:gomoku-demo\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2978440-2224-4838-8F5E-0CD2158A010E}|Gomoku-Demo\\Gomoku-Demo.csproj|c:\\users\\user\\source\\repos\\gomoku-demo\\gomoku-demo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2978440-2224-4838-8F5E-0CD2158A010E}|Gomoku-Demo\\Gomoku-Demo.csproj|solutionrelative:gomoku-demo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Board.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Gomoku-Demo\\Gomoku-Demo\\Board.cs",
+              "RelativeDocumentMoniker": "Gomoku-Demo\\Board.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Gomoku-Demo\\Gomoku-Demo\\Board.cs",
+              "RelativeToolTip": "Gomoku-Demo\\Board.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T05:03:13.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Gomoku-Demo\\Gomoku-Demo\\Game.cs",
+              "RelativeDocumentMoniker": "Gomoku-Demo\\Game.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Gomoku-Demo\\Gomoku-Demo\\Game.cs",
+              "RelativeToolTip": "Gomoku-Demo\\Game.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T03:41:51.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Gomoku-Demo\\Gomoku-Demo\\Form1.cs",
+              "RelativeDocumentMoniker": "Gomoku-Demo\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Gomoku-Demo\\Gomoku-Demo\\Form1.cs",
+              "RelativeToolTip": "Gomoku-Demo\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T03:36:46.06Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
